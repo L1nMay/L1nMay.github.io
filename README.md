@@ -3,6 +3,8 @@
 
 # I am a developer, information security specialist and pentester 🔴
 
+🎓 Student of Bauman Moscow State Technical University
+
 💻 Information Security Specialist
 
 📝 I enjoy CTF tournaments 
